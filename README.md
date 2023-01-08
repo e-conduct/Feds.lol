@@ -1,4 +1,4 @@
-[!] <b>To use you must have python3 installed <br>
+[!] <b>To use you must have python 3.6 or newer installed <br>
 <br>pip install -r requirements.txt <br>
 <br>python main.py</br>
 
